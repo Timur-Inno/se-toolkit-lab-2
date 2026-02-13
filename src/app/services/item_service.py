@@ -1,5 +1,6 @@
 """Service for loading and querying course items from JSON data."""
 
+# fix: bug in the dfs logic
 from dataclasses import dataclass
 
 import json
